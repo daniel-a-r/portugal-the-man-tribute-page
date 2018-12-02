@@ -1,3 +1,3 @@
 # portugal-the-man-tribute-page
 
-![Window screenshot](window-screenshot.PNG)
+![Window screenshot](page-screenshot.PNG)
