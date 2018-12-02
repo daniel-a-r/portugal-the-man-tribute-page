@@ -1,0 +1,32 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 125%;
+}
+
+hr {
+  max-width: 120px;
+  border-color: black;
+}
+
+img {
+  width: 100%;
+}
+
+h4 {
+  font-weight: 600;
+}
+
+.jumbotron {
+  margin-top: 50px;
+  padding-top: 25px;
+  padding-bottom: 35px;
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+
+.album-artwork {
+  padding-bottom: 30px;
+}
